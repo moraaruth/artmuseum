@@ -1,0 +1,20 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    font-size: 12px;
+}
+.container{
+    margin-top: 3rem;
+    
+}
+#name{
+    font-size: 40px;
+}
+#opening{
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+
+}
+.card-group{
+    padding: 10px;
+}
